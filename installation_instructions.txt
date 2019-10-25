@@ -4,3 +4,6 @@
 $ conda create --name rna_browser python=3.6
 $ conda activate rna_browser
 $ pip install pandas matplotlib numpy
+
+# Navigate to the root directory and type the following
+$ python rna_browser_cli.py
