@@ -1,4 +1,4 @@
-# Clone this repository and extract it to your hard drive
+# Clone this repository and extract the folder to your hard drive
 
 # Open the Anaconda 3 Prompt and type the following commands:
 $ conda create --name rna_browser python=3.6
